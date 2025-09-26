@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.927667, 45.355472]
+      },
+      "properties": {
+        "Label": "SJAC-01",
+        "Name": "Florence A. Kyle",
+        "DOB": "Nov 3, 1899",
+        "DOD": "Oct 20, 1979",
+        "Notes": "Beloved wife of George T. Draper",
+        "Image": "Photos/grave1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.92764044548109, 45.355455113456536]
+      },
+      "properties": {
+        "Label": "SJAC-02",
+        "Name": "Roy and Gladys Overton",
+        "DOB": "1900 and 1907",
+        "DOD": "1985 and 1996",
+        "Notes": "Grave for two",
+        "Image": "Photos/grave2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.92762368168304, 45.35544286221954]
+      },
+      "properties": {
+        "Label": "SJAC-03",
+        "Name": "Harvey V. White",
+        "DOB": "1911",
+        "DOD": "1999",
+        "Notes": "Beloved husband of Lillian I. Reid",
+        "Image": "Photos/grave3.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.9276109411896, 45.355431082181845]
+      },
+      "properties": {
+        "Label": "SJAC-04",
+        "Name": "Winston F. Myers",
+        "DOB": "1899",
+        "DOD": "1975",
+        "Notes": "Beloved husband of Rose A. Brown",
+        "Image": "Photos/grave4.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.92759820069617, 45.35541835973837]
+      },
+      "properties": {
+        "Label": "SJAC-05",
+        "Name": "G. Taylor Sparks",
+        "DOB": "1899",
+        "DOD": "1992",
+        "Notes": "Wife of Ruth Acres",
+        "Image": "Photos/grave5.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.92758210745113, 45.35540516609025]
+      },
+      "properties": {
+        "Label": "SJAC-06",
+        "Name": "Victor E. Major",
+        "DOB": "1884",
+        "DOD": "1979",
+        "Notes": "Husband of Laura L, Downey",
+        "Image": "Photos/grave6.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.92756735530205, 45.35539244364097]
+      },
+      "properties": {
+        "Label": "SJAC-07",
+        "Name": "William A, AMM and Fern I. Major",
+        "DOB": "1925 and 1930",
+        "DOD": "20000 and 2022",
+        "Notes": "Grave for two",
+        "Image": "Photos/grave7.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.92754925039173, 45.355378778784846]
+      },
+      "properties": {
+        "Label": "SJAC-08",
+        "Name": "Herbert N. Boucher",
+        "DOB": "1885",
+        "DOD": "1958",
+        "Notes": "Husband of Reta Johnston",
+        "Image": "Photos/grave8.jpg"
+      }
+    }
+  ]
+}
